@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "UTSVT-KiCadLibraries")(type "KiCad")(uri "${KIPRJMOD}/UTSVT-KiCadLibraries")(options "")(descr ""))
+)
